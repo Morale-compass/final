@@ -1,0 +1,27 @@
+body {
+	background-color: lightgrey;
+}
+
+.myDiv {
+	color: green;
+	width: 50%;
+	height: 200px;
+	margin: 0 auto;
+	text-align: center;
+	background-color: black;
+	padding: 10px;
+}
+
+#myInput {
+	display: none;
+	margin: 5px auto;
+	padding: 5px;
+}
+
+#myButton2 {
+	display: none;
+}
+
+#myButton3 {
+	display: none;
+}
